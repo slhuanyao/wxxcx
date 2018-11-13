@@ -1,0 +1,15 @@
+*/target/
+
+/.externalToolBuilders/
+
+/.idea/
+*.iml
+
+*/.settings/
+.project
+.classpath
+/bin
+~$*.docx
+*.tmp
+
+*.log
